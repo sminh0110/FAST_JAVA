@@ -1,0 +1,11 @@
+package ch01;
+
+public class HelloJava {
+
+	public static void main(String[] args) {
+		System.out.println("Hello Java!");
+	}
+
+}
+//저장하면 컴파일이 된다. (project-automatically..)
+//클래스 한개에 파일 하나가 일반적이다.

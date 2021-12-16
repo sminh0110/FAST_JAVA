@@ -1,0 +1,11 @@
+package ch01;
+
+public class Student {
+	
+	int studentNum; //멤버변수는 파란색으로
+	String studentName; //소문자로 시작해서 단어가 바뀔 때마다 대문자로
+	int majorCode;
+	Stirng majorName;
+	int grade;
+	
+}

@@ -1,0 +1,10 @@
+package ch10;
+
+public class Constant {
+	
+	public static void main(String[] args) {
+		
+		final int MAX = 100;
+		
+	}
+}

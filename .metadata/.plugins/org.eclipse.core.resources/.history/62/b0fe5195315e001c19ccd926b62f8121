@@ -1,0 +1,9 @@
+package ch16;
+
+public class WhileInWhile {
+	public static void main(String[] args) {
+		int dan = 2;
+		int count = 1;
+		while()
+	}
+}

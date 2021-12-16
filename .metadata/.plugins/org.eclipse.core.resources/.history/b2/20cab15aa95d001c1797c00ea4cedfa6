@@ -1,0 +1,22 @@
+package ch08;
+
+public class CharaterTest {
+
+		public static void main(String[] args) {
+			
+			char ch1 = 'A';
+			System.out.println(ch1);
+			System.out.println((int)ch1); //A의 아스키값을 출력
+			
+			char ch2 = 66;
+			System.out.println(ch2); //char형에 넣었기 때문에 아스키코드에 해당되는 B 출력
+			System.out.println((char)ch2);
+			
+			//char ch = -66; 음수는 사용할 수 없다.
+			
+			char han = '한';
+			char ch = '\uD55C';
+			System.out.println(han);
+			System.out.println(ch);
+		}
+}
