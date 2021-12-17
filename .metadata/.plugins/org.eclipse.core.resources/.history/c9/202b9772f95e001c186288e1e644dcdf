@@ -1,0 +1,24 @@
+package ch08;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class Order {
+	public static int orderNum;
+	public int orderPhone;
+	public String orderAddress;
+	private static Date time;
+	private SimpleDateFormat dateFormat = new SimpleDateFormat("yyMMdd");
+	private SimpleDateFormat timeFormat = new SimpleDateFormat("HHmmss");
+	public int orderTime;
+	public int orderPrice;
+	public int orderMenu;
+	
+	public Order(Customer customer, int menu) {
+		orderNum += 1;
+		orderPhone = customer.customerPhone;
+		orderAddress = customer.address;
+		orderDate = 
+	}
+	
+}

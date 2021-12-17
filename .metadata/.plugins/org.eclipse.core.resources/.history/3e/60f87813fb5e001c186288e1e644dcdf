@@ -1,0 +1,9 @@
+package ch08;
+
+public class MainForOder {
+	
+	public static void main(String[] args) {
+		Customer tomas = new Customer(180, 78, 37);
+		Order firstOrder = new Order(tomas, 0003);
+	}
+}

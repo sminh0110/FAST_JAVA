@@ -1,0 +1,19 @@
+package ch08;
+
+public class Customer {
+	
+	public int tall;
+	public int weigh;
+	public int age;
+	public int customerPhone;
+	public String address;
+	
+	
+	public Customer(int tall, int weigh, int age, int customerPhone, String address) {
+		this.tall = tall;
+		this.weigh = weigh;
+		this.age = age;
+		this.customerPhone = customerPhone;
+		this.address = address;
+	}
+}

@@ -1,0 +1,12 @@
+package ch08;
+
+public class Order {
+	public int orderNum;
+	public int phoneNum;
+	public String address;
+	public int orderDate;
+	public int orderTime;
+	public int orderPrice;
+	public int oderMenu;
+	
+}
