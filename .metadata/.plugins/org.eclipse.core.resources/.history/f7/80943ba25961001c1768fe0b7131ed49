@@ -1,0 +1,9 @@
+package ch24;
+
+import java.util.ArrayList;
+
+public class ResultTest {
+	public static void main(String[] args) {
+		ArrayList<Student> students = new ArrayList<Student>()
+	}
+}

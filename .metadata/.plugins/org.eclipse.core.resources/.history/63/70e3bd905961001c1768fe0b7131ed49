@@ -1,0 +1,8 @@
+package ch24;
+
+public class ResultTest {
+	public static void main(String[] args) {
+		Student Shin = new Student("민호");
+		Student Kim = new Student("정수");
+	}
+}
