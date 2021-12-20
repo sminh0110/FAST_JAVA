@@ -1,2 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="ch08.Customer"/>
+    <fullyQualifiedTypeName name="ch08.Order"/>
+    <fullyQualifiedTypeName name="ch09.Subject"/>
+    <fullyQualifiedTypeName name="ch09.Student"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="ch11.MakeReport"/>
+    <fullyQualifiedTypeName name="ch14.Student"/>
+    <fullyQualifiedTypeName name="ch14.Bus"/>
+</qualifiedTypeNameHistroy>

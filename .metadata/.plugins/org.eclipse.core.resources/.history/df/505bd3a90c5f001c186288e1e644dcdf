@@ -1,0 +1,9 @@
+package ch14;
+
+public class TestTransportation {
+	public static void main(String[] args) {
+		Student Shin = new Student("Minho", 10000);
+		Bus bus = new Bus(111);
+		Shin.tak
+	}
+}
