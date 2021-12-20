@@ -2,7 +2,6 @@ package ch02;
 
 public class Customer {
 	
-	private int customerID;
 	private String customerName;
 	protected String customerGrade;
 	int bonusPoint;
