@@ -1,0 +1,8 @@
+package ch19;
+
+public class Factory {
+	
+	private Factory() {}
+	
+	private static Factory instance = new Factory();
+}
