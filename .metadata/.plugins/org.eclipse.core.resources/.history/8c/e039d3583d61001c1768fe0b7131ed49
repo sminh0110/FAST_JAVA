@@ -1,0 +1,6 @@
+package ch18;
+
+public class Company {
+	private Company() {}
+	private Company instance = new Company();
+}
