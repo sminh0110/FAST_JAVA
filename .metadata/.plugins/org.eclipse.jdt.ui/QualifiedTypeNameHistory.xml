@@ -10,4 +10,15 @@
     <fullyQualifiedTypeName name="ch11.MakeReport"/>
     <fullyQualifiedTypeName name="ch14.Student"/>
     <fullyQualifiedTypeName name="ch14.Bus"/>
+    <fullyQualifiedTypeName name="ch18.Company"/>
+    <fullyQualifiedTypeName name="ch19.Factory"/>
+    <fullyQualifiedTypeName name="ch19.CarFactory"/>
+    <fullyQualifiedTypeName name="ch24.Subject"/>
+    <fullyQualifiedTypeName name="ch24.Student"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ch16.Employee"/>
+    <fullyQualifiedTypeName name="ch02.Customer"/>
+    <fullyQualifiedTypeName name="javax.smartcardio.CardTerminal"/>
+    <fullyQualifiedTypeName name="ch10.NormalCar"/>
+    <fullyQualifiedTypeName name="ch10.CarTemplete"/>
 </qualifiedTypeNameHistroy>
