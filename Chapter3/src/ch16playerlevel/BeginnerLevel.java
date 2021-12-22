@@ -1,26 +1,26 @@
-package ch16;
+package ch16playerlevel;
 
-public class AdvancedLevel implements PlayerLevel {
+public class BeginnerLevel implements PlayerLevel {
 
 	@Override
 	public void run() {
-		System.out.println("아주 빠르게 달림");
+		System.out.println("빨리 달림");
 	}
 
 	@Override
 	public void jump() {
-		System.out.println("아주 높이 점프");
+		System.out.println("점프 불가능");
 	}
 
 	@Override
 	public void turn() {
-		System.out.println("방향변경");
+		System.out.println("방향변경 불가능");
 		
 	}
 
 	@Override
 	public void showLevel() {
-		System.out.println("=====중급자 레벨=====");
+		System.out.println("=====초급자 레벨=====");
 	}
 
 	@Override
@@ -32,4 +32,5 @@ public class AdvancedLevel implements PlayerLevel {
 		}
 		turn();
 	}
+
 }

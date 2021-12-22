@@ -1,4 +1,4 @@
-package ch16;
+package ch16playerlevel;
 
 public class PlayerLevelTest {
 	public static void main(String[] args) {

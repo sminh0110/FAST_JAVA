@@ -1,4 +1,4 @@
-package ch16;
+package ch16playerlevel;
 
 public interface PlayerLevel {
 	public void run();

@@ -1,15 +1,15 @@
-package ch16;
+package ch16playerlevel;
 
-public class SuperLevel implements PlayerLevel{
+public class AdvancedLevel implements PlayerLevel {
 
 	@Override
 	public void run() {
-		System.out.println("최고로 빠르게 달림");
+		System.out.println("아주 빠르게 달림");
 	}
 
 	@Override
 	public void jump() {
-		System.out.println("제일 높이 점프");
+		System.out.println("아주 높이 점프");
 	}
 
 	@Override
@@ -20,7 +20,7 @@ public class SuperLevel implements PlayerLevel{
 
 	@Override
 	public void showLevel() {
-		System.out.println("=====고급자 레벨=====");
+		System.out.println("=====중급자 레벨=====");
 	}
 
 	@Override
@@ -32,5 +32,4 @@ public class SuperLevel implements PlayerLevel{
 		}
 		turn();
 	}
-	
 }
