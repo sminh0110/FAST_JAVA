@@ -25,6 +25,7 @@ public class BeginnerLevel implements PlayerLevel {
 
 	@Override
 	public void go(int count) {
+		showLevel();
 		run();
 		for(int i=0; i<count; i++) {
 			jump();

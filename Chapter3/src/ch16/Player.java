@@ -12,6 +12,7 @@ public class Player {
 	}
 	
 	public void play() {
+		
 		if(level instanceof BeginnerLevel) level.go(1);
 		if(level instanceof AdvancedLevel) level.go(2);
 		if(level instanceof SuperLevel) level.go(3);

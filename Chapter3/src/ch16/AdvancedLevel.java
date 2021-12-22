@@ -20,11 +20,12 @@ public class AdvancedLevel implements PlayerLevel {
 
 	@Override
 	public void showLevel() {
-		System.out.println("=====고급자 레벨=====");
+		System.out.println("=====중급자 레벨=====");
 	}
 
 	@Override
 	public void go(int count) {
+		showLevel();
 		run();
 		for(int i=0; i<count; i++) {
 			jump();
