@@ -32,4 +32,8 @@
     <fullyQualifiedTypeName name="ch16callcenter.RoundRobin"/>
     <fullyQualifiedTypeName name="ch16callcenter.LeastJob"/>
     <fullyQualifiedTypeName name="ch16callcenter.PriorityAllocation"/>
+    <fullyQualifiedTypeName name="linkedlistpractice.MyListNode"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="arraymyself.MyArray"/>
+    <fullyQualifiedTypeName name="linkedlistmyself.MyListNode"/>
 </qualifiedTypeNameHistroy>

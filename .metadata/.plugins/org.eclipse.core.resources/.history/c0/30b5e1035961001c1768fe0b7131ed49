@@ -1,9 +1,0 @@
-package ch24;
-
-import java.util.ArrayList;
-
-public class Student {
-	
-	private String name;
-	private ArrayList<Subject> studying = new ArrayList<Subject>();
-}
