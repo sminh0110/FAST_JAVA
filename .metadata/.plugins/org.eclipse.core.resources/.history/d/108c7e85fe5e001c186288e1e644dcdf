@@ -1,8 +1,0 @@
-package ch09;
-
-public class MainForScore {
-	public static void main(String[] args) {
-		Student st1 = new Student(0001, "신민호");
-		Student st2 = new Student(0002, "황인겸");
-	}
-}

@@ -22,6 +22,10 @@ public class MyArrayTest {
 		
 		System.out.println("===============");
 		System.out.println(array.getElement(2));
+		
+		System.out.println("===============");
+		array.removeAll();
+		array.printAll();
 
 	}
 }
