@@ -19,7 +19,6 @@
     <fullyQualifiedTypeName name="javax.smartcardio.CardTerminal"/>
     <fullyQualifiedTypeName name="ch10.NormalCar"/>
     <fullyQualifiedTypeName name="ch10.CarTemplete"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ch15.BookShelf"/>
     <fullyQualifiedTypeName name="ch16.PlayerLevel"/>
     <fullyQualifiedTypeName name="ch16.Player"/>
@@ -36,4 +35,15 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="arraymyself.MyArray"/>
     <fullyQualifiedTypeName name="linkedlistmyself.MyListNode"/>
+    <fullyQualifiedTypeName name="genelictype.Meat"/>
+    <fullyQualifiedTypeName name="genelictype.Chiken"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="genelictype.ObjectPrinter"/>
+    <fullyQualifiedTypeName name="genelictype.Powder"/>
+    <fullyQualifiedTypeName name="geneliclecture.GenericPrinter"/>
+    <fullyQualifiedTypeName name="geneliclecture.Powder"/>
+    <fullyQualifiedTypeName name="genelicmethod.Point"/>
+    <fullyQualifiedTypeName name="genelicmethod.GenelicMethod"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ch10.MemberArrayList"/>
 </qualifiedTypeNameHistroy>
