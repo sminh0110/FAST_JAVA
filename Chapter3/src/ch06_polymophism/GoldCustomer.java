@@ -1,4 +1,4 @@
-package ch06polymophism;
+package ch06_polymophism;
 
 public class GoldCustomer extends Customer{
 
