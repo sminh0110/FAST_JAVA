@@ -44,6 +44,13 @@
     <fullyQualifiedTypeName name="geneliclecture.Powder"/>
     <fullyQualifiedTypeName name="genelicmethod.Point"/>
     <fullyQualifiedTypeName name="genelicmethod.GenelicMethod"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="ch10.MemberArrayList"/>
+    <fullyQualifiedTypeName name="ch13.ConitionTest"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.AbstractMethodError"/>
+    <fullyQualifiedTypeName name="ch06.Animal"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ch06.AnimalTest"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ch06polymophism.Customer"/>
 </qualifiedTypeNameHistroy>
